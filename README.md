@@ -1,6 +1,13 @@
 # vue-test
 
-## Project setup
+## Usage
+
+```bash
+git clone https://github.com/geocolumbus/vuetify-test.git
+cd veutify-test
+```
+
+### Project setup
 ```
 npm install
 ```
